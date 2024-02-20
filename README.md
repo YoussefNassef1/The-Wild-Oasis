@@ -1,8 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
-=======
 
->>>>>>> aa42525fc9f3682c220fa1582a846ab2fb83235c
   <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
 
   <h2>The Wild Oasis</h2>
@@ -13,21 +10,12 @@
     </a>
   </h3>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> aa42525fc9f3682c220fa1582a846ab2fb83235c
   <hr>
 
 </div>
 
 <!-- Badges -->
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> aa42525fc9f3682c220fa1582a846ab2fb83235c
 </div>
 
 <!-- Brief -->
@@ -37,18 +25,14 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 <!-- Screenshot -->
 
-<<<<<<< HEAD
-=======
-
->>>>>>> aa42525fc9f3682c220fa1582a846ab2fb83235c
 </a>
 
 ## Table of contents
 
 - [Key Features](#key-features)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Installation](#installation)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -143,10 +127,6 @@ By building "The Wild Oasis" project with these technologies and concepts, I've 
 
 ### Installation
 
-<<<<<<< HEAD
-=======
-
->>>>>>> aa42525fc9f3682c220fa1582a846ab2fb83235c
 - Install dependencies:
 
 ```sh
@@ -165,12 +145,6 @@ npm run build
 npm run dev
 ```
 
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> aa42525fc9f3682c220fa1582a846ab2fb83235c
 Feel free to contact me with any questions or feedback!
 
 ### Acknowledgments
