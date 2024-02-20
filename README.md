@@ -131,11 +131,6 @@ By building "The Wild Oasis" project with these technologies and concepts, I've 
 
 ### Installation
 
-- Clone this repo:
-
-```sh
-git clone https://github.com/CodePapa360/The-Wild-Oasis.git
-```
 
 - Install dependencies:
 
